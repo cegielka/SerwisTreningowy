@@ -7,10 +7,10 @@
 3.Baza danych mySQL
 
 4.Struktura strony:
--Home
--Workout schedule
--Exercises
--Contact
--About
--Log in
--Sign up
+- Home
+- Workout schedule
+- Exercises
+- Contact
+- About
+- Log in
+- Sign up
