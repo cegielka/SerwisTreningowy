@@ -15,7 +15,7 @@ TO DO:
 4.Struktura strony:
 - Home
 - Workout schedule
-- Exercises
+- Get Program
 - Contact
 - About
 - Log in
